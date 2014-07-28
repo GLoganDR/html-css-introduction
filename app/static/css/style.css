@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Parisienne);
+h1{
+  border: 5px solid red;
+  font-family: 'Parisienne', cursive;
+  color: red;
+  background-color: black;
+  font-size: 50px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin: 0px;
+}
+h2{
+  border: 5px solid red;
+  color: red;
+  background-color: black;
+  font-size: 50px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin: 0px;
+}
+header{
+  border: 3px solid red;
+  color: red;
+  background-color: black;
+  font-size: 18px;
+  letter-spacing: 5px;
+  padding: 10px;
+  margin: 0px;
+  margin-top: 5px;
+}
+
+nav{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 5px;
+}
+
+a{
+  text-decoration: none;
+  color: red;
+  border: 2px dashed purple;
+  padding: 5px;
+  background-color: black;
+}
+
+a:hover{
+  text-decoration: underline;
+  background-color: purple;
+}
+
+.super{
+  margin-top: 10px;
+  color: purple;
+  background-color: red;
+}
+
+#awesome{
+  margin-top: 10px;
+  color: purple;
+  background-color: red;
+}
